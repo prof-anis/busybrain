@@ -1,0 +1,44 @@
+{
+	"projects":{
+			"1" : {
+				"name" : "Scoreboard",
+				"description" : "A simple online based result management system for schools. It has amazing features such as result verification, result compilation, online preaparation of results and much more. ",
+				"client":"Freeman schools",
+				"status":"in progress",
+				"type":"Laravel Project ",
+				"link":"http://resultboard.herokuapp.com",
+				"image":"images/scoreboard.png"
+
+			},
+			"2":{
+				"name" : "Sparkcoop",
+				"description" : "A A financial management application for societies with lots of fantastic features ",
+				"client":"Sparkcoop",
+				"status":"in progress",
+				"type":"Laravel project",
+				"link":"http://sparkcoop.herokuapp.com",
+				"image":"images/sparkcoop.png"
+			},
+			"3":{
+				"name":"Matrix",
+				"description":"a simple php library for handling matrices",
+				"client":"open source project",
+				"status":"in progress",
+				"type":"open source",
+				"link":"http://github/prof-anis/",
+				"image":"images/matrix.png"
+				 
+
+			},
+			"4":{
+				"name":"MyDB",
+				"description":"a MYSLI ORM for php inspired by the laravel Eloquent ORM",
+				"client":"open source project",
+				"status":"in progress",
+				"type":"open source",
+				"link":"http://github/prof-anis",
+				 
+				"image":"images/db.png" 
+			}
+	 	}
+}
